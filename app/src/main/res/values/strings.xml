@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Painter</string>
+    <string name="pencil">Pencil</string>
+    <string name="eraser">Eraser</string>
+</resources>
